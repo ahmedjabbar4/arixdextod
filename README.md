@@ -38,7 +38,7 @@ Click the following link to register : [https://t.me/ARIXcoin_bot?start=ref_6294
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/arixdextod.git
+   git clone https://github.com/ahmedjabbar4/arixdextod.git
    ```
 
 3. goto arixdextod directory
